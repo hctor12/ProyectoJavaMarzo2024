@@ -21,4 +21,8 @@ public class Calculator {
     public double dividir(double numl, double num2) {
         return numl / num2;
     }
+
+    public void saludar() {
+        System.out.println("Hola");
+    }
 }
